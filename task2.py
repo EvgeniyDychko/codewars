@@ -7,5 +7,3 @@ def spin_words(sentence):
         else:
             txt += x + ' '
     return txt
-
-print(spin_words("hello man lolka"))
